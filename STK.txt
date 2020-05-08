@@ -1,4 +1,3 @@
-DefaultW:1000|gcdS:50|DefaultK:5|variationTimes:10|numWindows:10
 Dataset      Queryset  ChgQRatio     Method       Time     AvgMem    PeakMem       #Out      #OutQ
 ---------------------------------------------------------------------------------------------------
 STK            STK_Q1        0.0      NAIVE      75.69        3.0        3.0       1235       1235
