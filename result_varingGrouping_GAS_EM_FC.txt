@@ -1,7 +1,0 @@
-Dataset      Queryset  ChgQRatio     Method       Time     AvgMem    PeakMem       #Out      #OutQ
----------------------------------------------------------------------------------------------------
-GAS          GAS_Q100        0.1      NAIVE   22571.43        3.0       13.0         15         22
-GAS          GAS_Q100        0.1      NAIVE   22998.43        3.0       24.0         15         22
-GAS          GAS_Q100        0.1      NAIVE   22768.73        3.0       45.0         15         22
-GAS          GAS_Q100        0.1      NAIVE   22696.61        3.0       64.0         15         22
-GAS          GAS_Q100        0.1      NAIVE   22908.55        3.0       44.0         15         22
