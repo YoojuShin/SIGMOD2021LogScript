@@ -2,143 +2,101 @@ Dataset      Queryset  ChgQRatio     Method       Time     AvgMem    PeakMem    
 ---------------------------------------------------------------------------------------------------
 STK            STK_Q1        0.2        SOP      41.83        8.0       17.0          7          7
 STK            STK_Q1        0.2     pMCSKY      49.58        5.0       12.0          7          7
-
+STK            STK_Q1        0.2       OURS       0.65        4.0        9.0          7          7
 STK            STK_Q1        0.2        SOP      40.45        8.0       12.0          7          7
 STK            STK_Q1        0.2     pMCSKY      50.00        5.0       10.0          7          7
-
+STK            STK_Q1        0.2       OURS       0.72        4.0        9.0          7          7
 STK            STK_Q1        0.2        SOP      40.22        8.0       12.0          7          7
 STK            STK_Q1        0.2     pMCSKY      49.29        5.0       10.0          7          7
-
+STK            STK_Q1        0.2       OURS       0.54        4.0        9.0          7          7
 STK            STK_Q1        0.2        SOP      41.94        8.0       12.0          7          7
 STK            STK_Q1        0.2     pMCSKY      50.03        5.0       10.0          7          7
-
+STK            STK_Q1        0.2       OURS       0.47        4.0        9.0          7          7
 STK            STK_Q1        0.2        SOP      40.90        8.0       12.0          7          7
 STK            STK_Q1        0.2     pMCSKY      53.78        5.0       10.0          7          7
-
+STK            STK_Q1        0.2       OURS       0.50        4.0        9.0          7          7
 STK           STK_Q10        0.2        SOP    1418.34       83.3      119.0         15         22
 STK           STK_Q10        0.2     pMCSKY    1489.88       57.3      112.0         15         22
-
+STK           STK_Q10        0.2       OURS       3.94        3.8        9.0         15         22
 STK           STK_Q10        0.2        SOP    1320.02       80.8      118.0         16         21
 STK           STK_Q10        0.2     pMCSKY    1384.65       55.0      102.0         16         21
-
+STK           STK_Q10        0.2       OURS       3.37        3.9        9.0         16         21
 STK           STK_Q10        0.2        SOP    1402.71       86.3      112.0         14         22
 STK           STK_Q10        0.2     pMCSKY    1632.51       59.7       98.0         14         22
-
+STK           STK_Q10        0.2       OURS       3.75        4.0        9.0         14         22
 STK           STK_Q10        0.2        SOP    1513.86       82.8      119.0         17         26
 STK           STK_Q10        0.2     pMCSKY    1739.38       58.6      109.0         17         26
-
+STK           STK_Q10        0.2       OURS       4.05        4.0        9.0         17         26
 STK           STK_Q10        0.2        SOP    1409.15       84.1      119.0         15         24
 STK           STK_Q10        0.2     pMCSKY    1495.49       55.8      108.0         15         24
-
+STK           STK_Q10        0.2       OURS       3.07        3.9        9.0         15         24
 STK          STK_Q100        0.2        SOP   14753.64      179.5      204.0         97        313
 STK          STK_Q100        0.2     pMCSKY   13805.00      121.2      147.0         97        313
-
+STK          STK_Q100        0.2       OURS      26.79        4.0       10.0         97        313
 STK          STK_Q100        0.2        SOP   15118.99      180.8      207.0        105        312
 STK          STK_Q100        0.2     pMCSKY   14492.76      123.0      152.0        105        312
-
+STK          STK_Q100        0.2       OURS      26.96        4.0       10.0        105        312
 STK          STK_Q100        0.2        SOP   14501.30      178.7      243.0         84        276
 STK          STK_Q100        0.2     pMCSKY   13891.48      120.1      150.0         84        276
-
+STK          STK_Q100        0.2       OURS      22.92        4.0        9.0         84        276
 STK          STK_Q100        0.2        SOP   14769.77      180.1      208.0         75        268
 STK          STK_Q100        0.2     pMCSKY   14065.44      122.1      152.0         75        268
-
+STK          STK_Q100        0.2       OURS      25.70        4.0        9.0         75        268
 STK          STK_Q100        0.2        SOP   14767.16      180.0      206.0        105        309
 STK          STK_Q100        0.2     pMCSKY   14238.29      121.7      263.0        105        309
-
+STK          STK_Q100        0.2       OURS      26.90        4.0       15.0        105        309
 STK         STK_Q1000        0.2        SOP   76605.50      681.0      713.0        269       2825
 STK         STK_Q1000        0.2     pMCSKY   74777.80      144.5      555.0        269       2825
-
+STK         STK_Q1000        0.2       OURS     171.54        5.0       25.0        269       2825
 
 GAS            GAS_Q1        0.2        SOP      46.01        8.4       18.0          0          0
 GAS            GAS_Q1        0.2     pMCSKY      53.09        6.8       35.0          0          0
-
+GAS            GAS_Q1        0.2       OURS      18.75        7.8       48.0          0          0
 GAS            GAS_Q1        0.2        SOP      45.89        8.4       60.0          0          0
 GAS            GAS_Q1        0.2     pMCSKY      52.82        6.9       45.0          0          0
-
+GAS            GAS_Q1        0.2       OURS      18.75        7.9       47.0          0          0
 GAS            GAS_Q1        0.2        SOP      47.19        8.1       52.0          0          0
 GAS            GAS_Q1        0.2     pMCSKY      50.51        6.7       45.0          0          0
-
+GAS            GAS_Q1        0.2       OURS      19.47        7.9       47.0          0          0
 GAS            GAS_Q1        0.2        SOP      47.28        8.1       47.0          0          0
 GAS            GAS_Q1        0.2     pMCSKY      48.60        6.7       45.0          0          0
-
+GAS            GAS_Q1        0.2       OURS      18.59        7.8       46.0          0          0
 GAS            GAS_Q1        0.2        SOP      47.01        8.0       46.0          0          0
 GAS            GAS_Q1        0.2     pMCSKY      49.51        6.7       45.0          0          0
-
+GAS            GAS_Q1        0.2       OURS      17.72        7.8       46.0          0          0
 GAS           GAS_Q10        0.2        SOP    4659.94      111.0      197.0          1          1
 GAS           GAS_Q10        0.2     pMCSKY    5280.93       98.7      188.0          1          1
-
+GAS           GAS_Q10        0.2       OURS      66.83       11.8       59.0          1          1
 GAS           GAS_Q10        0.2        SOP    5146.23      117.1      208.0          1          1
 GAS           GAS_Q10        0.2     pMCSKY    5621.50      100.1      187.0          1          1
-
+GAS           GAS_Q10        0.2       OURS      83.63       12.2       58.0          1          1
 GAS           GAS_Q10        0.2        SOP    3593.62       98.2      190.0          0          0
 GAS           GAS_Q10        0.2     pMCSKY    4380.49       86.8      189.0          0          0
-
+GAS           GAS_Q10        0.2       OURS      41.88        8.7       54.0          0          0
 GAS           GAS_Q10        0.2        SOP    4109.36      112.6      189.0          2          2
 GAS           GAS_Q10        0.2     pMCSKY    4856.91       98.3      176.0          2          2
-
+GAS           GAS_Q10        0.2       OURS      51.76       10.2       56.0          2          2
 GAS           GAS_Q10        0.2        SOP    4252.85      108.2      201.0          1          1
 GAS           GAS_Q10        0.2     pMCSKY    4936.76       94.2      184.0          1          1
-
+GAS           GAS_Q10        0.2       OURS      62.33       11.9       59.0          1          1
 GAS          GAS_Q100        0.2        SOP   35577.32      340.7      449.0         13         19
 GAS          GAS_Q100        0.2     pMCSKY   37729.37      283.2      396.0         10         16
-
+GAS          GAS_Q100        0.2       OURS     508.90       18.5       61.0         13         19
 GAS          GAS_Q100        0.2        SOP   35512.37      340.5      463.0         12         20
 GAS          GAS_Q100        0.2     pMCSKY   36521.40      282.8      404.0         12         20
-
+GAS          GAS_Q100        0.2       OURS     479.19       18.6       62.0         12         20
 GAS          GAS_Q100        0.2        SOP   35163.36      345.9      464.0         12         21
 GAS          GAS_Q100        0.2     pMCSKY   37888.97      289.0      407.0         12         21
-
+GAS          GAS_Q100        0.2       OURS     517.17       19.1       62.0         12         21
 GAS          GAS_Q100        0.2        SOP   35167.90      344.8      456.0         13         24
 GAS          GAS_Q100        0.2     pMCSKY   37684.01      287.6      399.0         13         24
-
+GAS          GAS_Q100        0.2       OURS     535.66       18.3       60.0         13         24
 GAS          GAS_Q100        0.2        SOP   35143.24      344.6      477.0         14         26
 GAS          GAS_Q100        0.2     pMCSKY   36776.20      287.6      419.0         14         26
-
+GAS          GAS_Q100        0.2       OURS     530.59       17.3       59.0         14         26
 GAS         GAS_Q1000        0.2     pMCSKY  300578.39      466.0      559.0        103       3249
-
+GAS         GAS_Q1000        0.2       OURS    4492.63       19.0       38.0        103       3249
 GAS         GAS_Q1000        0.2        SOP  315200.55     1003.0     1079.0        103       3249
-
-
-GAS            GAS_Q1        0.2       OURS      18.47        8.0       37.0          0          0
-GAS           GAS_Q10        0.2       OURS      80.91       12.2       58.0          1          1
-GAS          GAS_Q100        0.2       OURS     492.94       18.5       63.0         11         17
-GAS         GAS_Q1000        0.2       OURS    3214.86       21.6       64.0         49        222
-STK            STK_Q1        0.2       OURS       0.56        4.0       56.0          7          7
-STK           STK_Q10        0.2       OURS       3.25        4.0       43.0         13         20
-STK          STK_Q100        0.2       OURS      23.54        4.0       54.0        105        303
-STK         STK_Q1000        0.2       OURS     138.15        5.0       44.0        269       2805
-
-GAS            GAS_Q1        0.2       OURS      15.93        7.9       52.0          0          0
-GAS           GAS_Q10        0.2       OURS      73.57       11.4       62.0          3          3
-GAS          GAS_Q100        0.2       OURS     486.48       18.4       62.0         13         22
-GAS         GAS_Q1000        0.2       OURS    3026.48       21.5       63.0         48        202
-STK            STK_Q1        0.2       OURS       0.56        4.0       42.0          7          7
-STK           STK_Q10        0.2       OURS       4.28        3.9       42.0         20         30
-STK          STK_Q100        0.2       OURS      23.93        4.0       43.0         97        293
-STK         STK_Q1000        0.2       OURS     138.17        5.0       43.0        266       2770
-
-GAS            GAS_Q1        0.2       OURS      16.05        7.9       46.0          0          0
-GAS           GAS_Q10        0.2       OURS      65.89       10.7       57.0          2          2
-GAS          GAS_Q100        0.2       OURS     495.79       19.2       62.0         13         22
-GAS         GAS_Q1000        0.2       OURS    3160.28       21.4       63.0         51        228
-STK            STK_Q1        0.2       OURS       0.48        4.0       42.0          7          7
-STK           STK_Q10        0.2       OURS       3.94        4.0       43.0         24         33
-STK          STK_Q100        0.2       OURS      22.47        4.0       42.0         84        277
-STK         STK_Q1000        0.2       OURS     138.84        5.0       44.0        251       2751
-
-GAS            GAS_Q1        0.2       OURS      15.96        7.9       46.0          0          0
-GAS           GAS_Q10        0.2       OURS      75.23       11.3       60.0          0          1
-GAS          GAS_Q100        0.2       OURS     478.25       17.7       61.0         10         19
-GAS         GAS_Q1000        0.2       OURS    3096.59       21.2       63.0         47        191
-STK            STK_Q1        0.2       OURS       0.58        4.0       42.0          7          7
-STK           STK_Q10        0.2       OURS       3.32        4.0       42.0         19         27
-STK          STK_Q100        0.2       OURS      21.82        4.0       43.0         88        269
-STK         STK_Q1000        0.2       OURS     142.30        5.0       43.0        250       2759
-
-GAS            GAS_Q1        0.2       OURS      16.54        7.8       46.0          0          0
-GAS           GAS_Q10        0.2       OURS      67.06       11.3       61.0          0          0
-GAS          GAS_Q100        0.2       OURS     494.04       17.8       61.0         14         22
-GAS         GAS_Q1000        0.2       OURS    3123.74       21.7       63.0         51        234
 
 EM              EM_Q1        0.2        SOP      55.07        8.5       49.0          0          0
 EM              EM_Q1        0.2     pMCSKY      59.48        7.0       86.0          0          0
